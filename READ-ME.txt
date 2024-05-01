@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-  =>  Template Name    : HighTech - IT Solutions Website Template
+  =>  Template Name    : AR - IT Solutions Website Template
 
   =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  :  AR IT  solutions Team
 
-=======
-  =>  Template Name    : HighTech - IT Solutions Website Template
-
-  =>  Template Link    : https://htmlcodex.com/it-solutions-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
->>>>>>> eb549f5bd523ea959a940df4681f8b5ad45945d9
   =>  Author Website   : https://htmlcodex.com
